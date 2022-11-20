@@ -30,9 +30,6 @@
 	<SubTexture name="10025" x="1965" y="0" width="655" height="521"/>
 	<SubTexture name="10026" x="1965" y="0" width="655" height="521"/>
 	<SubTexture name="10027" x="1965" y="0" width="655" height="521"/>
-	<SubTexture name="10028" x="2620" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="655" frameHeight="521"/>
-	<SubTexture name="10029" x="2620" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="655" frameHeight="521"/>
-	<SubTexture name="10030" x="2620" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="655" frameHeight="521"/>
 	<SubTexture name="20000" x="2620" y="0" width="655" height="521"/>
 	<SubTexture name="20001" x="2620" y="0" width="655" height="521"/>
 	<SubTexture name="20002" x="3275" y="0" width="655" height="521"/>
