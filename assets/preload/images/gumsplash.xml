@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gumsplash.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note splash electric blue 10000" x="3" y="3" width="316" height="335"/>
+	<SubTexture name="note splash electric blue 10001" x="322" y="3" width="316" height="335"/>
+	<SubTexture name="note splash electric blue 10002" x="641" y="3" width="316" height="335"/>
+	<SubTexture name="note splash electric blue 10003" x="3" y="341" width="316" height="335"/>
+</TextureAtlas>
